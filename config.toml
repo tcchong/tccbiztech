@@ -1,0 +1,72 @@
+baseURL = 'https://tccbiztech.com/'
+languageCode = 'en-us'
+title = 'tccbiztech'
+theme = 'adritian-free-hugo-theme'
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "About"
+  URL = "#portfolio"
+  weight = 2
+
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#portfolio"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "client-and-work", "experience", "contact"]
+
+  googleTagManagerID = "GTM-MTLKRJR" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "tccbiztech"
+    text2 = "-"
+
+  [params.footer]
+      copyright = "© tccbiztech. All rights reserved."

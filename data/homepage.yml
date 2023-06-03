@@ -1,0 +1,147 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Terrence"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Terrence."
+  description: "I am a technical professional with over 9 years of experience in software-related work, specializing in backend engineering, data engineering, and technical management. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
+  image:
+    alt: "Profile picture"
+    x: "img/profile-pic.jpg"
+    _2x: "img/profile-pic.jpg"
+  imageMobile:
+    alt: "Profile picture"
+    x: "img/profile-pic.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://tccbiztech.com/en/contact/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/terrence-toh-61879072/"
+
+    - icon: "github"
+      URL: "https://github.com/tcchong"
+
+# about
+about:
+  enable: false
+  title: ""
+  content: ""
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/terrence-toh-61879072/"
+  image:
+    x: "img/biz-tech-data.png"
+    _2x: "img/biz-tech-data.png"
+
+# education
+education:
+  enable: false
+  title: "Education"
+  items:
+    - university: "National Sun Yat-Sen University, Taiwan"
+      year: "2012-2017"
+      degree: "Bachelor of IT, Information Technology"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I have over 9 years of experience working in the software industry, with a focus on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/terrence-toh-61879072/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Tech Lead"
+      company: "Micepad"
+      duration: "May 2022 - Present"
+
+    - title: "Sr. Data Engineer"
+      company: "Hahow"
+      duration: "Oct 2019 - Apr 2022"
+
+    - title: "Sr. Back-End Developer"
+      company: "Hahow"
+      duration: "Oct 2016 - Sep 2019"
+
+    - title: "Development Team Lead"
+      company: "Net Publishing"
+      duration: "Nov 2015 - Jul 2016"
+
+    - title: "Software Engineer"
+      company: "Net Publishing"
+      duration: "Jul 2013 - Oct 2015"
+
+# Client & Work
+client_and_work:
+  title: "What role I play?"
+  enable: true
+
+  works:
+    - title: "Fractional CTO"
+      description: "Do you have a great product idea but lack the technical expertise to bring it to life? Do you have a team of developers but need help guiding them? Are you looking to change your outsourcing model and build your own team? You have all of these problems but only have a limited budget? What you need is a Fractional CTO. I can help you with all of these."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Contact Me"
+        URL: "#contact"
+      image:
+        x: "img/roles/fcto.jpg" # Photo by Slidebean on Unsplash
+        _2x: "img/roles/fcto.jpg"
+      is_even: true
+
+    - title: "Sr. Software Engineer"
+      description: "Do you have a great idea but lack the practical knowledge to build it? Or do you have a legacy system that needs to be maintained? Or perhaps you have a technical challenge that needs to be solved? Let's connect and discuss how I can help you."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Contact Me"
+        URL: "#contact"
+      image:
+        x: "img/roles/sr-swe.jpg" # Photo by Clément Hélardot on Unsplash
+        _2x: "img/roles/sr-swe.jpg"
+      is_even: false
+
+    - title: "Data Advocate"
+      description: "Do you have data but don't know how to use it? Or do you have data but don't have the data infrastructure to support it? Or perhaps you are struggling with data management, data governance, or business intelligence problems? Please feel free to share your problem with me, and I will be happy to discuss how to solve it."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Contact Me"
+        URL: "#contact"
+      image:
+        x: "img/roles/data.jpg" # Photo by Justin Morgan on Unsplash
+        _2x: "img/roles/data.jpg"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  # phone:
+  #   title: "Phone Number"
+  #   number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:tcc919s@gmail.com">tcc919s@gmail.com</a>'
+  # address:
+  #   title: "Address"
+  #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
