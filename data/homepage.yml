@@ -1,7 +1,8 @@
 # homepage
-homepage:
-  head:
-    title: "Home | Terrence"
+head:
+  title: "Home | Terrence"
+  meta:
+    description: "Terrence's personal website. A technical professional specializing in backend engineering, data engineering, and technical management."
 # showcase
 showcase:
   enable: true
