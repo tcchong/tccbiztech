@@ -91,7 +91,7 @@ client_and_work:
 
   works:
     - title: "Fractional CTO"
-      description: "Do you have a great product idea but lack the technical expertise to bring it to life? Do you have a team of developers but need help guiding them? Are you looking to change your outsourcing model and build your own team? You have all of these problems but only have a limited budget? What you need is a Fractional CTO. I can help you with all of these."
+      description: "👉 Do you have a great product idea but lack the technical expertise to bring it to life?</br>👉 Do you have a team of developers but need help guiding them?</br>👉 Are you looking to change your outsourcing model and build your own team?</br>👉 You have all of these problems but only have a limited budget?</br></br>What you need is a Fractional CTO. I can help you with all of these."
       button:
         icon: "icon-arrow-right"
         btnText: "Contact Me"
@@ -102,7 +102,7 @@ client_and_work:
       is_even: true
 
     - title: "Sr. Software Engineer"
-      description: "Do you have a great idea but lack the practical knowledge to build it? Or do you have a legacy system that needs to be maintained? Or perhaps you have a technical challenge that needs to be solved? Let's connect and discuss how I can help you."
+      description: "👉 Do you have a great idea but lack the practical knowledge to build it?</br>👉 Or do you have a legacy system that needs to be maintained?</br>👉 Or perhaps you have a technical challenge that needs to be solved?</br></br>Let's connect and discuss how I can help you."
       button:
         icon: "icon-arrow-right"
         btnText: "Contact Me"
@@ -113,7 +113,7 @@ client_and_work:
       is_even: false
 
     - title: "Data Advocate"
-      description: "Do you have data but don't know how to use it? Or do you have data but don't have the data infrastructure to support it? Or perhaps you are struggling with data management, data governance, or business intelligence problems? Please feel free to share your problem with me, and I will be happy to discuss how to solve it."
+      description: "👉 Do you have data but don't know how to use it?</br>👉 Or do you have data but don't have the data infrastructure to support it?</br>👉 Or perhaps you are struggling with data management, data governance, or business intelligence problems?</br></br>Please feel free to share your problem with me, and I will be happy to discuss how to solve it."
       button:
         icon: "icon-arrow-right"
         btnText: "Contact Me"
@@ -136,9 +136,9 @@ contact:
   # phone:
   #   title: "Phone Number"
   #   number: "+41 (44) 505 10 99"
-  email:
-    title: "Email"
-    email: '<a href="mailto:tcc919s@gmail.com">tcc919s@gmail.com</a>'
+  # email:
+  #   title: "Email"
+  #   email: '<a href="mailto:tcc919s@gmail.com">tcc919s@gmail.com</a>'
   # address:
   #   title: "Address"
   #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
