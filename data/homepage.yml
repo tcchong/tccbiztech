@@ -7,7 +7,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Terrence."
-  description: "I am a technical professional with over 10 years of experience in software-related work, specializing in backend engineering, data engineering, and technical management. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
+  description: "I am a technical professional with over 9 years of experience in software-related work, specializing in backend engineering, data engineering, and technical management. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
   image:
     alt: "Profile picture"
     x: "https://drive.google.com/uc?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp"
@@ -54,7 +54,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I have over 10 years of experience working in the software industry, with a focus on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
+  description: "I have over 9 years of experience working in the software industry, focusing on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
