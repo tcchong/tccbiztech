@@ -14,7 +14,7 @@ showcase:
     _2x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
   imageMobile:
     alt: "Profile picture"
-    x: "https://drive.google.com/uc?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp"
+    x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
 
   button:
     icon: "icon-mail-fill"
@@ -38,8 +38,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/terrence-toh-61879072/"
   image:
-    x: "https://drive.google.com/uc?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp"
-    _2x: "https://drive.google.com/uc?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp"
+    x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
+    _2x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
 
 # education
 education:
@@ -102,8 +102,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.google.com/uc?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3" # Photo by Slidebean on Unsplash
-        _2x: "https://drive.google.com/uc?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3"
+        x: "https://drive.usercontent.google.com/download?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&authuser=0" # Photo by Slidebean on Unsplash
+        _2x: "https://drive.usercontent.google.com/download?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&authuser=0"
       is_even: true
 
     - title: "Product-Minded Engineer"
@@ -113,8 +113,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.google.com/uc?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL" # Photo by Clément Hélardot on Unsplash
-        _2x: "https://drive.google.com/uc?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL"
+        x: "https://drive.usercontent.google.com/download?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&authuser=0" # Photo by Clément Hélardot on Unsplash
+        _2x: "https://drive.usercontent.google.com/download?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&authuser=0"
       is_even: false
 
     - title: "Data Advocate"
@@ -124,8 +124,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.google.com/uc?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP" # Photo by Justin Morgan on Unsplash
-        _2x: "https://drive.google.com/uc?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP"
+        x: "https://drive.usercontent.google.com/download?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&authuser=0" # Photo by Justin Morgan on Unsplash
+        _2x: "https://drive.usercontent.google.com/download?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&authuser=0"
       is_even: true
 
 # contact
