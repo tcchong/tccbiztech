@@ -10,11 +10,11 @@ showcase:
   description: "I am a technical professional with over 9 years of experience in software-related work, specializing in backend engineering, data engineering, and technical management. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
   image:
     alt: "Profile picture"
-    x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
-    _2x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
+    x: "https://drive.google.com/thumbnail?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&sz=w1000"
+    _2x: "https://drive.google.com/thumbnail?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&sz=w1000"
   imageMobile:
     alt: "Profile picture"
-    x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
+    x: "https://drive.google.com/thumbnail?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&sz=w1000"
 
   button:
     icon: "icon-mail-fill"
@@ -38,8 +38,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/terrence-toh-61879072/"
   image:
-    x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
-    _2x: "https://drive.usercontent.google.com/download?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&authuser=0"
+    x: "https://drive.google.com/thumbnail?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&sz=w1000"
+    _2x: "https://drive.google.com/thumbnail?id=1P5cHy7vdEVO2QSRsLM6yIDK1TAsf9pxp&sz=w1000"
 
 # education
 education:
@@ -54,7 +54,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I have over 9 years of experience working in the software industry, focusing on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
+  description: "I have over 10 years of experience working in the software industry, focusing on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -102,8 +102,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.usercontent.google.com/download?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&authuser=0" # Photo by Slidebean on Unsplash
-        _2x: "https://drive.usercontent.google.com/download?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&authuser=0"
+        x: "https://drive.google.com/thumbnail?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&sz=1000" # Photo by Slidebean on Unsplash
+        _2x: "https://drive.google.com/thumbnail?id=1Ye08wLdrdHzrOmDYR6FPcuK9CYG8cZZ3&sz=1000"
       is_even: true
 
     - title: "Product-Minded Engineer"
@@ -113,8 +113,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.usercontent.google.com/download?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&authuser=0" # Photo by Clément Hélardot on Unsplash
-        _2x: "https://drive.usercontent.google.com/download?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&authuser=0"
+        x: "https://drive.google.com/thumbnail?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&sz=1000" # Photo by Clément Hélardot on Unsplash
+        _2x: "https://drive.google.com/thumbnail?id=1VHEA1dLjdhZHh1Bw1QRvPDrgIj6osxTL&sz=1000"
       is_even: false
 
     - title: "Data Advocate"
@@ -124,8 +124,8 @@ client_and_work:
         btnText: "Contact Me"
         URL: "#contact"
       image:
-        x: "https://drive.usercontent.google.com/download?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&authuser=0" # Photo by Justin Morgan on Unsplash
-        _2x: "https://drive.usercontent.google.com/download?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&authuser=0"
+        x: "https://drive.google.com/thumbnail?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&sz=1000" # Photo by Justin Morgan on Unsplash
+        _2x: "https://drive.google.com/thumbnail?id=1MAFcp14eItrRIxAYTn__GgsF-QZggZBP&sz=1000"
       is_even: true
 
 # contact
