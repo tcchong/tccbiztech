@@ -2,12 +2,12 @@
 head:
   title: "Home | Terrence"
   meta:
-    description: "Terrence's personal website. A technical professional specializing in backend engineering, data engineering, and technical management."
+    description: "Terrence's personal website. A technical professional specializing in backend engineering, data engineering, and technical leadership."
 # showcase
 showcase:
   enable: true
   title: "Hello, I’m Terrence."
-  description: "I am a technical professional with over 10 years of experience in software-related work, specializing in backend engineering, data engineering, and technical management. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
+  description: "I am a technical professional with over 10 years of experience in software-related work, specializing in backend engineering, data engineering, and technical leadership. </br></br>I can be a builder responsible for constructing applications from 0 to 1, an architect responsible for planning, an individual contributor on the front lines of maintenance, or a tech lead leading teams to complete projects of all sizes. </br></br>I am passionate about using technology to solve business problems. "
   image:
     alt: "Profile picture"
     x: "https://tccbiztech.com/img/profile-pic.jpg"
@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://tccbiztech.com/en/contact/"
+    URL: "mailto:tcc919s@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
@@ -54,7 +54,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I have over 10 years of experience working in the software industry, focusing on Back-end Development, Data Engineering, and Team Management. I have held a variety of roles, including Software Engineer, Team Lead, and Data Engineer, at both large companies and startups"
+  description: "With over 10 years of experience in the tech industry, I bring a wealth of expertise in Technical Leadership, Back-end Engineering, and Data Engineering. I’ve worked across diverse roles, including Tech Lead, Software Engineer, and Data Engineer, at both startups and mid-sized companies."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -62,32 +62,24 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://drive.google.com/file/d/1nz9M0a8aWc1BJ9sI2UH0JIdTtj3kPKK1/view"
 
   items:
     - title: "Head of Engineering and Product"
-      company: "MyStartr"
+      company: "MyStartr - Equity Crowdfunding Platform in Malaysia"
       duration: "July 2023 - Feb 2025"
 
     - title: "Tech Lead"
-      company: "Micepad"
+      company: "Micepad - Event Management Saas Product based in Singapore"
       duration: "May 2022 - June 2023"
 
-    - title: "Sr. Data Engineer"
-      company: "Hahow"
-      duration: "Oct 2019 - Apr 2022"
+    - title: "Sr. Back-end Engineer ➤ Sr. Data Engineer"
+      company: "Hahow - Online Learning Platform in Taiwan"
+      duration: "Oct 2016 - Apr 2022"
 
-    - title: "Sr. Back-End Developer"
-      company: "Hahow"
-      duration: "Oct 2016 - Sep 2019"
-
-    - title: "Development Team Lead"
-      company: "Net Publishing"
-      duration: "Nov 2015 - Jul 2016"
-
-    - title: "Software Engineer"
-      company: "Net Publishing"
-      duration: "Jul 2013 - Oct 2015"
+    - title: "Software Engineer ➤ Tech Lead"
+      company: "Net Publishing - Game Publishing Company in Taiwan"
+      duration: "Jul 2013 - Jul 2016"
 
 # Client & Work
 client_and_work:
@@ -95,12 +87,12 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Fractional CTO"
-      description: "👉 Do you have a great product idea but lack the technical expertise to bring it to life?</br>👉 Do you have a team of developers but need help guiding them?</br>👉 Are you looking to change your outsourcing model and build your own team?</br>👉 You have all of these problems but only have a limited budget?</br></br>What you need is a Fractional CTO. I can help you with all of these."
+    - title: "Technical Leader"
+      description: "👉 Does your organization struggle to align technical strategies with business goals?</br>👉 Do you have a development team that needs guidance, mentorship, and a clear direction?</br>👉 Are you facing challenges with quality assurance, technical debt, or scaling your systems?</br>👉 Do you need innovation and efficiency but lack a strong technical leadership presence?</br></br>What you need is a Technical Leader. They can help you solve these challenges and drive your success."
       button:
         icon: "icon-arrow-right"
-        btnText: "Contact Me"
-        URL: "#contact"
+        btnText: "View My Portfolio"
+        URL: "https://muddy-base-9bc.notion.site/Terrence-s-Portfolio-172b2ff6a37280e881bcea2f6c2cf599"
       image:
         x: "https://tccbiztech.com/img/roles/fcto.jpg" # Photo by Slidebean on Unsplash
         _2x: "https://tccbiztech.com/img/roles/fcto.jpg"
@@ -110,8 +102,8 @@ client_and_work:
       description: "👉 Do you have a great idea but lack the practical knowledge to build it?</br>👉 Or do you have a legacy system that needs to be maintained?</br>👉 Or perhaps you have a technical challenge that needs to be solved?</br></br>Let's connect and discuss how I can help you."
       button:
         icon: "icon-arrow-right"
-        btnText: "Contact Me"
-        URL: "#contact"
+        btnText: "View My Portfolio"
+        URL: "https://muddy-base-9bc.notion.site/Terrence-s-Portfolio-172b2ff6a37280e881bcea2f6c2cf599"
       image:
         x: "https://tccbiztech.com/img/roles/sr-swe.jpg" # Photo by Clément Hélardot on Unsplash
         _2x: "https://tccbiztech.com/img/roles/sr-swe.jpg"
@@ -121,8 +113,8 @@ client_and_work:
       description: "👉 Do you have data but don't know how to use it?</br>👉 Or do you have data but don't have the data infrastructure to support it?</br>👉 Or perhaps you are struggling with data management, data governance, or business intelligence problems?</br></br>Please feel free to share your problem with me, and I will be happy to discuss how to solve it."
       button:
         icon: "icon-arrow-right"
-        btnText: "Contact Me"
-        URL: "#contact"
+        btnText: "View My Portfolio"
+        URL: "https://muddy-base-9bc.notion.site/Terrence-s-Portfolio-172b2ff6a37280e881bcea2f6c2cf599"
       image:
         x: "https://tccbiztech.com/img/roles/data.jpg" # Photo by Justin Morgan on Unsplash
         _2x: "https://tccbiztech.com/img/roles/data.jpg"
@@ -138,15 +130,6 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  # phone:
-  #   title: "Phone Number"
-  #   number: "+41 (44) 505 10 99"
-  # email:
-  #   title: "Email"
-  #   email: '<a href="mailto:tcc919s@gmail.com">tcc919s@gmail.com</a>'
-  # address:
-  #   title: "Address"
-  #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
